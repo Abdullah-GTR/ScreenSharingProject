@@ -1,0 +1,12 @@
+F:\Classes\Spring 23\NP\Project 1\Project 1\bin\Debug\Project 1.exe.config
+F:\Classes\Spring 23\NP\Project 1\Project 1\bin\Debug\Project 1.exe
+F:\Classes\Spring 23\NP\Project 1\Project 1\bin\Debug\Project 1.pdb
+F:\Classes\Spring 23\NP\Project 1\Project 1\obj\Debug\Project 1.csprojAssemblyReference.cache
+F:\Classes\Spring 23\NP\Project 1\Project 1\obj\Debug\Project_1.Form1.resources
+F:\Classes\Spring 23\NP\Project 1\Project 1\obj\Debug\Project_1.Properties.Resources.resources
+F:\Classes\Spring 23\NP\Project 1\Project 1\obj\Debug\Project 1.csproj.GenerateResource.cache
+F:\Classes\Spring 23\NP\Project 1\Project 1\obj\Debug\Project 1.csproj.CoreCompileInputs.cache
+F:\Classes\Spring 23\NP\Project 1\Project 1\obj\Debug\Project 1.exe
+F:\Classes\Spring 23\NP\Project 1\Project 1\obj\Debug\Project 1.pdb
+F:\Classes\Spring 23\NP\Project 1\Project 1\obj\Debug\Project_1.MsgClient.resources
+F:\Classes\Spring 23\NP\Project 1\Project 1\obj\Debug\Project_1.Start.resources

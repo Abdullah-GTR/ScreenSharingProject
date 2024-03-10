@@ -1,0 +1,13 @@
+F:\Classes\Spring 23\NP\Project 1 Server\Project 1 Server\bin\Debug\Project 1 Server.exe.config
+F:\Classes\Spring 23\NP\Project 1 Server\Project 1 Server\bin\Debug\Project 1 Server.exe
+F:\Classes\Spring 23\NP\Project 1 Server\Project 1 Server\bin\Debug\Project 1 Server.pdb
+F:\Classes\Spring 23\NP\Project 1 Server\Project 1 Server\obj\Debug\Project 1 Server.csprojAssemblyReference.cache
+F:\Classes\Spring 23\NP\Project 1 Server\Project 1 Server\obj\Debug\Project_1_Server.Form1.resources
+F:\Classes\Spring 23\NP\Project 1 Server\Project 1 Server\obj\Debug\Project_1_Server.Form2.resources
+F:\Classes\Spring 23\NP\Project 1 Server\Project 1 Server\obj\Debug\Project_1_Server.Properties.Resources.resources
+F:\Classes\Spring 23\NP\Project 1 Server\Project 1 Server\obj\Debug\Project 1 Server.csproj.GenerateResource.cache
+F:\Classes\Spring 23\NP\Project 1 Server\Project 1 Server\obj\Debug\Project 1 Server.csproj.CoreCompileInputs.cache
+F:\Classes\Spring 23\NP\Project 1 Server\Project 1 Server\obj\Debug\Project 1 Server.exe
+F:\Classes\Spring 23\NP\Project 1 Server\Project 1 Server\obj\Debug\Project 1 Server.pdb
+F:\Classes\Spring 23\NP\Project 1 Server\Project 1 Server\obj\Debug\Project_1_Server.Message.resources
+F:\Classes\Spring 23\NP\Project 1 Server\Project 1 Server\obj\Debug\Project_1_Server.Starter.resources
